@@ -1,0 +1,439 @@
+Albosaggia	Albosaggia,Sondrio,Lombardia	Alpino
+Aldeno1	Aldeno,Trento,Trentino Alto Adige	Orientale
+Aldeno2	Aldeno,Trento,Trentino Alto Adige	Orientale
+Aldeno3	Aldeno,Trento,Trentino Alto Adige	Orientale
+Altare	Altare,Savona,Liguria	Gallo-Italico Ligure
+Arcola	Arcola,La Spezia,Liguria	Gallo-Italico Ligure
+Arenzano	Arenzano,Genova,Liguria	Gallo-Italico Ligure
+Arzeno	Ne,Genova,Liguria	Gallo-Italico Ligure
+Bergantino	Bergantino,Rovigo,Veneto	Mantovano
+Bologna2	Bologna,Bologna,Emilia Romagna	Orientale
+Bondeno	Bondeno,Ferrara,Emilia Romagna	Orientale
+Borgofranco d'Ivrea	Borgofranco d'Ivrea,Torino,Piemonte	Alto piemontese
+Borgomanero	Borgomanero,Novara,Piemonte	Occidentale
+Calizzano	Calizzano,Savona,Liguria	Gallo-Italico Ligure
+Casalmaggiore	Casalmaggiore,Cremona,Lombardia	Orientale
+Casarza Ligure	Casarza Ligure,Genova,Liguria	Gallo-Italico Ligure
+Castellano	Villa Lagarina,Trento,Trentino Alto Adige	Trentino orientale
+Cencenighe Agordino	Cencenighe Agordino,Belluno,Veneto	Ladino-veneto
+Cesesa1	Cesena,Forlì-Cesena,Emilia Romagna	Romagnolo
+Cicagna	Cicagna,Genova,Liguria	Gallo-Italico Ligure
+Cividale	Cividale del Friuli,Udine,Friuli Venezia Giulia	Friulano Centro-orientale
+Colle Val d'Elsa	Colle di Val d'Elsa,Siena,Toscana	Toscano Senese
+Comano	Comano,Massa-Carrara,Toscana	Lunigiano
+Farra di Soligo	Farra di Soligo,Treviso,Veneto	Centro-settentrionale
+Favale di Malvaro	Favale di Malvaro,Genova,Liguria	Gallo-Italico Ligure
+Finale Ligure	Finale Ligure,Savona,Liguria	Gallo-Italico Ligure
+Firenze	Firenze,Firenze,Toscana	Toscano Fiorentino
+Forlì	Forlì,Forlì-Cesena,Emilia Romagna	Romagnolo
+La Spezia	La Spezia,La Spezia,Liguria	Gallo-Italico Ligure
+Lecco	Lecco,Lecco,Lombardia	Orientale
+Longare	Longare,Vicenza,Veneto	Meridionale
+Malonno	Malonno,Brescia,Lombardia	Orientale
+Mantova	Mantova,Mantova,Lombardia	Mantovano
+Mestre	Venezia,Venezia,Veneto	Lagunare
+Milano1	Milano,Milano,Lombardia	Occidentale
+Milano2	Milano,Milano,Lombardia	Occidentale
+Milano4	Milano,Milano,Lombardia	Occidentale
+Moimacco	Moimacco,Udine,Friuli Venezia Giulia	Friulano Centro-orientale
+Moncalieri	Moncalieri,Torino,Piemonte	Alto piemontese
+Mondovì	Mondovì,Cuneo,Piemonte	Alto piemontese
+Monno	Monno,Brescia,Lombardia	Orientale
+Montesover	Sover,Trento,Trentino Alto Adige	Ladino-fiammazzo
+Motta di Livenza	Motta di Livenza,Treviso,Veneto	Centro-settentrionale
+Novi Ligure	Novi Ligure,Alessandria,Piemonte	Basso piemontese
+Oneglia	Imperia,Imperia,Liguria	Gallo-Italico Ligure
+Padova1	Padova,Padova,Veneto	Meridionale
+padova2	Padova,Padova,Veneto	Meridionale
+Palazzolo dello Stella 	Palazzolo dello Stella,Udine,Friuli Venezia Giulia	Friulano Centro-orientale
+Palmanova	Palmanova,Udine,Friuli Venezia Giulia	Centro-settentrionale
+Poirino	Poirino,Torino,Piemonte	Alto piemontese
+Pontinvrea	Pontinvrea,Savona,Liguria	Gallo-Italico Ligure
+Pramaggiore	Pramaggiore,Venezia,Veneto	Centro-settentrionale
+Ramats	Chiomonte,Torino,Piemonte	Franco Provenzale del Piemonte
+Reisoni	Fontanigorda,Genova,Liguria	Gallo-Italico Ligure
+Remanzacco	Remanzacco,Udine,Friuli Venezia Giulia	Friulano Centro-orientale
+Rimini	Rimini,Rimini,Emilia Romagna	Romagnolo
+Riomaggiore	Riomaggiore,La Spezia,Liguria	Gallo-Italico Ligure
+Riva presso Chieri	Chieri,Torino,Piemonte	Alto piemontese
+Rivarossa Canavese	Rivarossa,Torino,Piemonte	Alto piemontese
+Rodoretto	Prali,Torino,Piemonte	Provenzale
+Rovereto	Rovereto,Trento,Trentino Alto Adige	Veronese
+Salzano	Salzano,Venezia,Veneto	Centro-settentrionale
+San Michele al Tagliamento1	San Michele al Tagliamento,Venezia,Veneto	Friulano Occidentale
+Scorzé	Scorzè,Venezia,Veneto	Meridionale
+Selva di Val Gardena	Selva di Val Gardena/Wolkenstein in Groeden,Bolzano/Bozen,Trentino Alto Adige	Ladino Atesino
+Tezze sul Brenta	Tezze sul Brenta,Vicenza,Veneto	Meridionale
+Torino	Torino,Torino,Piemonte	Alto piemontese
+Torino1	Torino,Torino,Piemonte	Alto piemontese
+Torino2	Torino,Torino,Piemonte	Alto piemontese
+Torino3	Torino,Torino,Piemonte	Alto piemontese
+Torino4	Torino,Torino,Piemonte	Alto piemontese
+Trecate	Trecate,Novara,Piemonte	Novarese
+Treviso	Treviso,Treviso,Veneto	Centro-settentrionale
+Trieste1	Trieste,Trieste,Friuli Venezia Giulia	Triestino-giuliano
+Trissino	Trissino,Vicenza,Veneto	Meridionale
+Vallecrosia	Vallecrosia,Imperia,Liguria	Gallo-Italico Ligure
+Vaprio d'Adda	Vaprio d'Adda,Milano,Lombardia	Occidentale
+Vione	Vione,Brescia,Lombardia	Orientale
+Alassio	Alassio,Savona,Liguria	Gallo-Italico Ligure
+Alba	Alba,Cuneo,Piemonte	Alto piemontese
+Altavilla Vicentina	Altavilla Vicentina,Vicenza,Veneto	Meridionale
+Alte Ceccato	Montecchio Maggiore,Vicenza,Veneto	Centro-settentrionale
+Amblar	Amblar,Trento,Trentino Alto Adige	Ladino-anaunico
+Andreis	Andreis,Pordenone,Friuli Venezia Giulia	Friulano Occidentale
+Aquileia	Aquileia,Udine,Friuli Venezia Giulia	Friulano Centro-orientale
+Arsiero	Arsiero,Vicenza,Veneto	Meridionale
+Bagnolo S. Vito	Bagnolo San Vito,Mantova,Lombardia	Mantovano
+Barcis	Barcis,Pordenone,Friuli Venezia Giulia	Friulano Occidentale
+Biancavilla	Biancavilla,Catania,Sicilia	Area orientale non metafonetica
+Bologna1	Bologna,Bologna,Emilia Romagna	Orientale
+Borghetto di Vara	Borghetto di Vara,La Spezia,Liguria	Gallo-Italico Ligure
+Borgonato1	Corte Franca,Brescia,Lombardia	Orientale
+Borgonato2	Corte Franca,Brescia,Lombardia	Orientale
+Borgonato3	Corte Franca,Brescia,Lombardia	Orientale
+Borgonato4	Corte Franca,Brescia,Lombardia	Orientale
+Borgonato5	Corte Franca,Brescia,Lombardia	Orientale
+Borgonato6	Corte Franca,Brescia,Lombardia	Orientale
+Borgonato7	Corte Franca,Brescia,Lombardia	Orientale
+Borgoricco 1	Padova,Padova,Veneto	Meridionale
+Borgo San Martino	Borgo San Martino,Alessandria,Piemonte	Alto piemontese
+Bormio	Bormio,Sondrio,Lombardia	Alpino
+Bovolone	Bovolone,Verona,Veneto	Veronese
+Briana	Noale,Venezia,Veneto	Centro-settentrionale
+Brione	Brione,Brescia,Lombardia	Orientale
+Cairo Montenotte	Cairo Montenotte,Savona,Liguria	Gallo-Italico Ligure
+Calalzo di Cadore	Calalzo di Cadore,Belluno,Veneto	Ladino Cadorino
+Calcinate	Calcinate,Bergamo,Lombardia	Orientale
+Caldogno	Caldogno,Vicenza,Veneto	Meridionale
+Calliano	Asti,Asti,Piemonte	Alto piemontese
+Camisano Vicentino	Camisano Vicentino,Vicenza,Veneto	Meridionale
+Campagnola	Brugine,Padova,Veneto	Meridionale
+Carcare	Carcare,Savona,Liguria	Gallo-Italico Ligure
+Carmignano di Brenta	Carmignano di Brenta,Padova,Veneto	Meridionale
+Carmignano di Brenta1	Carmignano di Brenta,Padova,Veneto	Meridionale
+Carpi	Carpi,Modena,Emilia Romagna	Occidentale
+Carrara	Carrara,Massa-Carrara,Toscana	Lunigiano
+Cazet	Campitello di Fassa,Trento,Trentino Alto Adige	Ladino Atesino
+Cesarolo1	San Michele al Tagliamento,Venezia,Veneto	Friulano Occidentale
+Cesarolo2	San Michele al Tagliamento,Venezia,Veneto	Centro-settentrionale
+Cesena2	Cesena,Forlì-Cesena,Emilia Romagna	Romagnolo
+Cesiomaggiore	Cesiomaggiore,Belluno,Veneto	Centro-settentrionale
+Chiavari1	Chiavari,Genova,Liguria	Gallo-Italico Ligure
+Chiavari2	Chiavari,Genova,Liguria	Gallo-Italico Ligure
+Chies d'Alpago	Chies d'Alpago,Belluno,Veneto	Centro-settentrionale
+Chioggia	Chioggia,Venezia,Veneto	Lagunare
+Cimolais	Cimolais,Pordenone,Friuli Venezia Giulia	Friulano Occidentale
+Cirvoi	Belluno,Belluno,Veneto	Centro-settentrionale
+Claut	Claut,Pordenone,Friuli Venezia Giulia	Friulano Occidentale
+Collina	Forni Avoltri,Udine,Friuli Venezia Giulia	Friulano Carnico
+Colognola ai Colli	Colognola ai Colli,Verona,Veneto	Veronese
+Cordenons	Cordenons,Pordenone,Friuli Venezia Giulia	Friulano Occidentale
+Corvara	Corvara in Badia/Corvara,Bolzano/Bozen,Trentino Alto Adige	Ladino Atesino
+Due Carrare	Due Carrare,Padova,Veneto	Meridionale
+Due Carrare2	Due Carrare,Padova,Veneto	Meridionale
+Due Carrare3	Due Carrare,Padova,Veneto	Meridionale
+Erto	Erto e Casso,Pordenone,Friuli Venezia Giulia	Friulano Occidentale
+Facca	Cittadella,Padova,Veneto	Meridionale
+Falcade	Falcade,Belluno,Veneto	Ladino-veneto
+Falzè di Piave	Sernaglia della Battaglia,Treviso,Veneto	Centro-settentrionale
+Ferrara1	Ferrara,Ferrara,Emilia Romagna	Orientale
+Ferrara2	Ferrara,Ferrara,Emilia Romagna	Orientale
+Frontale di Sondalo	Sondalo,Sondrio,Lombardia	Alpino
+Galliera Veneta	Galliera Veneta,Padova,Veneto	Meridionale
+Galliera Veneta1	Galliera Veneta,Padova,Veneto	Meridionale
+Gazzo	Gazzo,Padova,Veneto	Meridionale
+Gazzolo	Arcole,Verona,Veneto	Veronese
+Ghizzole di Montegaldella	Montegaldella,Vicenza,Veneto	Meridionale
+Gorizia	Gorizia,Gorizia,Friuli Venezia Giulia	Friulano Centro-orientale
+Granarola	Gradara,Pesaro Urbino,Marche	Marchigiano settentrionale
+Grosio	Grosio,Sondrio,Lombardia	Alpino
+Illasi	Illasi,Verona,Veneto	Veronese
+Iseo1	Iseo,Brescia,Lombardia	Orientale
+Iseo2	Iseo,Brescia,Lombardia	Orientale
+Iseo3	Iseo,Brescia,Lombardia	Orientale
+Iseo4	Iseo,Brescia,Lombardia	Orientale
+Iseo5	Iseo,Brescia,Lombardia	Orientale
+Iseo6	Iseo,Brescia,Lombardia	Orientale
+Iseo7	Iseo,Brescia,Lombardia	Orientale
+Iseo8	Iseo,Brescia,Lombardia	Orientale
+Jesolo	Jesolo,Venezia,Veneto	Lagunare
+Lamon	Lamon,Belluno,Veneto	Centro-settentrionale
+Laste di Rocca Pietore	Rocca Pietore,Belluno,Veneto	Ladino Atesino
+Lion	Albignasego,Padova,Veneto	Meridionale
+Livigno1	Livigno,Sondrio,Lombardia	Alpino
+Livigno2	Livigno,Sondrio,Lombardia	Alpino
+Lonato	Lonato del Garda,Brescia,Lombardia	Orientale
+Lucanico	Gorizia,Gorizia,Friuli Venezia Giulia	Friulano Centro-orientale
+Lupia di Sandrigo	Sandrigo,Vicenza,Veneto	Meridionale
+Luzzara1	Luzzara,Reggio nell'Emilia,Emilia Romagna	Mantovano
+Marostica	Marostica,Vicenza,Veneto	Meridionale
+Marostica2	Marostica,Vicenza,Veneto	Meridionale
+Maserà di Padova	Maserà di Padova,Padova,Veneto	Meridionale
+Mason Vicentino	Mason Vicentino,Vicenza,Veneto	Meridionale
+Mellame d’Arsiè	Arsiè,Belluno,Veneto	Trentino orientale
+Milano3	Milano,Milano,Lombardia	Occidentale
+Mirano	Mirano,Venezia,Veneto	Meridionale
+Monselice	Monselice,Padova,Veneto	Meridionale
+Montecchio Precalcino	Montecchio Precalcino,Vicenza,Veneto	Meridionale
+Montereale Valcellina	Montereale Valcellina,Pordenone,Friuli Venezia Giulia	Friulano Occidentale
+Nimis	Nimis,Udine,Friuli Venezia Giulia	Friulano Centro-orientale
+Noale	Noale,Venezia,Veneto	Centro-settentrionale
+Nones 	Tassullo,Trento,Trentino Alto Adige	Trentino Occidentale
+Ortisei	Ortisei/St. Ulrich,Bolzano/Bozen,Trentino Alto Adige	Ladino Atesino
+Osimo	Osimo,Ancona,Marche	Anconetano
+Padola	Comelico Superiore,Belluno,Veneto	Ladino Cadorino
+Padova3	Padova,Padova,Veneto	Meridionale
+Padova4	Padova,Padova,Veneto	Meridionale
+Padova5	Padova,Padova,Veneto	Meridionale
+Padova6	Padova,Padova,Veneto	Meridionale
+Padova8	Padova,Padova,Veneto	Meridionale
+Padova9	Padova,Padova,Veneto	Meridionale
+Peaio	Vodo Cadore,Belluno,Veneto	Ladino Cadorino
+Pianiga	Pianiga,Venezia,Veneto	Meridionale
+Pianiga1	Pianiga,Venezia,Veneto	Meridionale
+Pianiga2	Pianiga,Venezia,Veneto	Meridionale
+Pianiga3	Pianiga,Venezia,Veneto	Meridionale
+Piove di Sacco	Piove di Sacco,Padova,Veneto	Meridionale
+Piove di Sacco2	Piove di Sacco,Padova,Veneto	Meridionale
+Piove di Sacco3	Piove di Sacco,Padova,Veneto	Meridionale
+Pontevigodarzere 1	Padova,Padova,Veneto	Meridionale
+Pontevigodarzere 3	Padova,Padova,Veneto	Meridionale
+Pozza di Fassa	Pozza di Fassa,Trento,Trentino Alto Adige	Ladino Atesino
+Pozzale di cadore	Pieve di Cadore,Belluno,Veneto	Ladino Cadorino
+Prà del Torno	Angrogna,Torino,Piemonte	Alto piemontese
+Puos d'Alpago	Puos d'Alpago,Belluno,Veneto	Centro-settentrionale
+Qualso	Reana del Rojale,Udine,Friuli Venezia Giulia	Friulano Centro-orientale
+Quinto Vicentino	Quinto Vicentino,Vicenza,Veneto	Meridionale
+Redondesco	Redondesco,Mantova,Lombardia	Mantovano
+Revò	Revò,Trento,Trentino Alto Adige	Ladino-anaunico
+Rivai di Arsiè	Arsiè,Belluno,Veneto	Centro-settentrionale
+Rocca Pietore	Rocca Pietore,Belluno,Veneto	Ladino Atesino
+Romano D'Ezzelino	Romano d'Ezzelino,Vicenza,Veneto	Meridionale
+Ronzone	Ronzone,Trento,Trentino Alto Adige	Ladino-anaunico
+Ronzone 2	Ronzone,Trento,Trentino Alto Adige	Ladino-anaunico
+Rovigo	Rovigo,Rovigo,Veneto	Meridionale
+Rovolon	Rovolon,Padova,Veneto	Meridionale
+San Leonardo	Badia/Abtei,Bolzano/Bozen,Trentino Alto Adige	Ladino Atesino
+San Martino di Lupari	San Martino di Lupari,Padova,Veneto	Meridionale
+San Martino di Lupari1	San Martino di Lupari,Padova,Veneto	Meridionale
+San Martino di Lupari2	San Martino di Lupari,Padova,Veneto	Meridionale
+San martino di lupari 3	San Martino di Lupari,Padova,Veneto	Meridionale
+San Martino di Lupari 4	San Martino di Lupari,Padova,Veneto	Meridionale
+San Martino di Lupari 5	San Martino di Lupari,Padova,Veneto	Meridionale
+San Martino di Lupari 6	San Martino di Lupari,Padova,Veneto	Centro-settentrionale
+San Martino di Lupari 7	San Martino di Lupari,Padova,Veneto	Meridionale
+San Michele al Tagliamento2	San Michele al Tagliamento,Venezia,Veneto	Friulano Occidentale
+San Pietro in Gu	San Pietro in Gu,Padova,Veneto	Meridionale
+San Pietro in Gu1	San Pietro in Gu,Padova,Veneto	Meridionale
+San Pietro in Gu2	San Pietro in Gu,Padova,Veneto	Meridionale
+Santa Croce Bigolina	Cittadella,Padova,Veneto	Meridionale
+Santa Maria di Sala	Santa Maria di Sala,Venezia,Veneto	Meridionale
+Santa Maria di Sala 1	Santa Maria di Sala,Venezia,Veneto	Meridionale
+Santa Maria di Sala 2	Santa Maria di Sala,Venezia,Veneto	Meridionale
+Santa Maria di Sala 3	Santa Maria di Sala,Venezia,Veneto	Meridionale
+Santa Maria di Sala 4	Santa Maria di Sala,Venezia,Veneto	Meridionale
+Savona	Savona,Savona,Liguria	Gallo-Italico Ligure
+Schenone	Samolaco,Sondrio,Lombardia	Alpino
+Schio	Schio,Vicenza,Veneto	Meridionale
+Selvazzano Dentro	Selvazzano Dentro,Padova,Veneto	Meridionale
+Semogo	Valdidentro,Sondrio,Lombardia	Alpino
+Solesino	Solesino,Padova,Veneto	Meridionale
+Tabarchino	Calasetta,Carbonia-Iglesias,Sardegna	Gallo-Italico Ligure
+Taggia	Taggia,Imperia,Liguria	Gallo-Italico Ligure
+Taglio di Po1	Taglio di Po,Rovigo,Veneto	Meridionale
+Taglio di Po2	Taglio di Po,Rovigo,Veneto	Meridionale
+Tai di Cadore	Pieve di Cadore,Belluno,Veneto	Ladino Cadorino
+Teglio Veneto	Teglio Veneto,Venezia,Veneto	Friulano Occidentale
+Teolo	Teolo,Padova,Veneto	Meridionale
+Terranegra	Padova,Padova,Veneto	Meridionale
+Tignes di Pieve d'Alpago	Pieve d'Alpago,Belluno,Veneto	Centro-settentrionale
+Tollegno	Tollegno,Biella,Piemonte	Basso piemontese
+Torino5	Torino,Torino,Piemonte	Alto piemontese
+Treia	Treia,Macerata,Marche	Maceratese
+Trieste2	Trieste,Trieste,Friuli Venezia Giulia	Triestino-giuliano
+Triggiano	Triggiano,Bari,Puglia	Apulo-barese
+Valdagno	Valdagno,Vicenza,Veneto	Meridionale
+Valfurva1	Valfurva,Sondrio,Lombardia	Alpino
+Valfurva2	Valfurva,Sondrio,Lombardia	Alpino
+Valmorbia	Vallarsa,Trento,Trentino Alto Adige	Trentino orientale
+Venezia1	Venezia,Venezia,Veneto	Lagunare
+Venezia 6	Venezia,Venezia,Veneto	Lagunare
+Veneziano	Venezia,Venezia,Veneto	Lagunare
+Verona	Verona,Verona,Veneto	Veronese
+Veternigo	Santa Maria di Sala,Venezia,Veneto	Meridionale
+Vicenza	Vicenza,Vicenza,Veneto	Meridionale
+Vicenza2	Vicenza,Vicenza,Veneto	Meridionale
+Vidor	Vidor,Treviso,Veneto	Centro-settentrionale
+Vidor2	Vidor,Treviso,Veneto	Centro-settentrionale
+Villa di Chiavenna	Villa di Chiavenna,Sondrio,Lombardia	Alpino
+Villa di Tirano	Stazzona,Como,Lombardia	Alpino
+Villafranca Padovana	Villafranca Padovana,Padova,Veneto	Meridionale
+Villaverla	Villaverla,Vicenza,Veneto	Meridionale
+Villorba	Villorba,Treviso,Veneto	Centro-settentrionale
+Vodo di Cadore	Belluno,Belluno,Veneto	Ladino Cadorino
+Zero Branco	Zero Branco,Treviso,Veneto	Centro-settentrionale
+Zianigo	Mirano,Venezia,Veneto	Lagunare
+Zianigo2	Mirano,Venezia,Veneto	Lagunare
+Zianigo3	Mirano,Venezia,Veneto	Lagunare
+Zianigo4	Mirano,Venezia,Veneto	Lagunare
+Zianigo5	Mirano,Venezia,Veneto	Lagunare
+Zianigo6	Mirano,Venezia,Veneto	Lagunare
+Correzzola	Correzzola,Padova,Veneto	Meridionale
+Pontevigodarzere 2	Padova,Padova,Veneto	Meridionale
+Santa Maria di Sala 5	Santa Maria di Sala,Venezia,Veneto	Meridionale
+Padova7	Padova,Padova,Veneto	Meridionale
+Agugliaro	Agugliaro,Vicenza,Veneto	Meridionale
+Ceneda	Vittorio Veneto,Treviso,Veneto	Centro-settentrionale
+Lucinico	Gorizia,Gorizia,Friuli Venezia Giulia	Friulano Centro-orientale
+Milano5	Milano,Milano,Lombardia	Occidentale
+Torino6	Torino,Torino,Piemonte	Alto piemontese
+Ariano Irpino	Ariano Irpino,Avellino,Campania	Irpino
+Bagnoli Irpino	Avellino,Avellino,Campania	Irpino
+Bari	Bari,Bari,Puglia	Apulo-barese
+Bitti	Bitti,Nuoro,Sardegna	Nuorese
+Calitri	Avellino,Avellino,Campania	Laziale meridionale
+Carife	Avellino,Avellino,Campania	Irpino
+Castrignano del Capo	Castrignano del Capo,Lecce,Puglia	Salentino meridionale
+Catania1	Catania,Catania,Sicilia	Area orientale non metafonetica
+Catania2	Catania,Catania,Sicilia	Area orientale non metafonetica
+Catania3	Catania,Catania,Sicilia	Area orientale non metafonetica
+Catania4	Catania,Catania,Sicilia	Area orientale non metafonetica
+Corigliano d'Otranto	Corigliano d'Otranto,Lecce,Puglia	Salentino meridionale
+Corleone	Corleone,Palermo,Sicilia	Occidentale
+Cosenza	Cosenza,Cosenza,Calabria	Calabrese centrale
+Crotone	Crotone,Crotone,Calabria	Calabrese centrale
+Gallipoli1	Gallipoli,Lecce,Puglia	Salentino meridionale
+Laino Castello	Laino Castello,Cosenza,Calabria	Area arcaica lucano-calabrese
+Locorotondo	Locorotondo,Bari,Puglia	Apulo-barese
+Locri	Locri,Reggio di Calabria,Calabria	Calabrese meridionale
+Macerata	Macerata,Macerata,Marche	Maceratese
+Marcianise	Marcianise,Caserta,Campania	Napoletano
+Melfi	Melfi,Potenza,Basilicata	Lucano nord-occidentale
+Messina1	Messina,Messina,Sicilia	Messinese
+Messina2	Messina,Messina,Sicilia	Messinese
+Messina3	Messina,Messina,Sicilia	Messinese
+Molfetta1	Molfetta,Bari,Puglia	Apulo-barese
+Molfetta2	Molfetta,Bari,Puglia	Apulo-barese
+Molfetta3	Molfetta,Bari,Puglia	Apulo-barese
+Molfetta4	Molfetta,Bari,Puglia	Apulo-barese
+Molfetta5	Molfetta,Bari,Puglia	Apulo-barese
+Molfetta6	Molfetta,Bari,Puglia	Apulo-barese
+Molfetta7	Molfetta,Bari,Puglia	Apulo-barese
+Monasterace1	Monasterace,Reggio di Calabria,Calabria	Calabrese meridionale
+Monasterace2	Monasterace,Reggio di Calabria,Calabria	Calabrese meridionale
+Montecalvo Irpino	Avellino,Avellino,Campania	Irpino
+Montella	Montella,Avellino,Campania	Irpino
+Ortelle	Ortelle,Lecce,Puglia	Salentino meridionale
+Ossi	Ossi,Sassari,Sardegna	Logudorese settentrionale
+Paciano	Paciano,Perugia,Umbria	Settentrionale
+Palermo2	Palermo,Palermo,Sicilia	Occidentale
+Palermo6	Palermo,Palermo,Sicilia	Occidentale
+Palermo7	Palermo,Palermo,Sicilia	Occidentale
+Palermo8	Palermo,Palermo,Sicilia	Occidentale
+Palermo9	Palermo,Palermo,Sicilia	Occidentale
+Papasidero	Papasidero,Cosenza,Calabria	Area arcaica lucano-calabrese
+Pennapiedimonte	Pennapiedimonte,Chieti,Abruzzo	Abruzzese orientale adriatico
+Posada	Posada,Nuoro,Sardegna	Nuorese
+San Cesario di Lecce	San Cesario di Lecce,Lecce,Puglia	Salentino centrale
+San Marco in Lamis	San Marco in Lamis,Foggia,Puglia	Garganico
+San Martino in Pensilis	San Martino in Pensilis,Campobasso,Molise	Meridionale Intermedio Molisano
+Scampitella	Avellino,Avellino,Campania	Irpino
+Sciacca	Sciacca,Agrigento,Sicilia	Occidentale
+Terravecchia	Terravecchia,Cosenza,Calabria	Calabrese settentrionale
+Trepuzzi	Trepuzzi,Lecce,Puglia	Salentino centrale
+Trevico	Trevico,Avellino,Campania	Irpino
+Troina1	Troina,Enna,Sicilia	Area metafonetica centrale
+Troina10	Troina,Enna,Sicilia	Area metafonetica centrale
+Troina2	Troina,Enna,Sicilia	Area metafonetica centrale
+Troina3	Troina,Enna,Sicilia	Area metafonetica centrale
+Troina4	Troina,Enna,Sicilia	Area metafonetica centrale
+Troina5	Troina,Enna,Sicilia	Area metafonetica centrale
+Troina6	Troina,Enna,Sicilia	Area metafonetica centrale
+Troina7	Troina,Enna,Sicilia	Area metafonetica centrale
+Troina8	Troina,Enna,Sicilia	Area metafonetica centrale
+Troina9	Troina,Enna,Sicilia	Area metafonetica centrale
+Venosa	Venosa,Potenza,Basilicata	Lucano nord-occidentale
+Vitigliano	Santa Cesarea Terme,Lecce,Puglia	Salentino meridionale
+Termoli	Termoli,Campobasso,Molise	Meridionale Intermedio Molisano
+Tricase	Tricase,Lecce,Puglia	Salentino meridionale
+Capurso	Capurso,Bari,Puglia	Apulo-barese
+Lesina	Lesina,Foggia,Puglia	Dauno-appenninico
+Bagnoregio	Bagnoregio,Viterbo,Lazio	Laziale centro-settentrionale
+Campi Salentina	Campi Salentina,Lecce,Puglia	Salentino centrale
+Campobasso	Campobasso,Campobasso,Molise	Meridionale Intermedio Molisano
+Cardito	Cardito,Napoli,Campania	Napoletano
+Cardito1	Cardito,Napoli,Campania	Napoletano
+Cardito2	Cardito,Napoli,Campania	Napoletano
+Cardito3	Cardito,Napoli,Campania	Napoletano
+Cardito4	Cardito,Napoli,Campania	Napoletano
+Carosino	Carosino,Taranto,Puglia	Salentino settenrionale
+Castiglione Messer Marino	Castiglione Messer Marino,Chieti,Abruzzo	Abruzzese orientale adriatico
+Civita di Bagnoregio 1	Bagnoregio,Viterbo,Lazio	Meridionale-occidentale e viterbese
+Copertino	Copertino,Lecce,Puglia	Salentino centrale
+Cutrofiano	Cutrofiano,Lecce,Puglia	Salentino centrale
+Faggiano	Faggiano,Taranto,Puglia	Salentino settenrionale
+Francavilla Fontana	Francavilla Fontana,Brindisi,Puglia	Salentino settenrionale
+Gragnano	Gragnano,Napoli,Campania	Napoletano
+Grottaglie	Grottaglie,Taranto,Puglia	Salentino settenrionale
+Iglesias	Iglesias,Carbonia-Iglesias,Sardegna	Logudorese-Campidanese Campidanese
+Lanciano	Lanciano,Chieti,Abruzzo	Abruzzese orientale adriatico
+L'Aquila	L'Aquila,L'Aquila,Abruzzo	Mediano cicolano-Reatino-aquilano
+Lecce	Lecce,Lecce,Puglia	Salentino centrale
+Lecce2	Lecce,Lecce,Puglia	Salentino centrale
+Liscia	Liscia,Chieti,Abruzzo	Abruzzese orientale adriatico
+Lubriano	Lubriano,Viterbo,Lazio	Laziale centro-settentrionale
+Maglie	Maglie,Lecce,Puglia	Salentino meridionale
+Marchigiano	Civitanova Marche,Macerata,Marche	Maceratese
+Martina Franca	Martina Franca,Taranto,Puglia	Apulo-barese
+Martinsicuro	Martinsicuro,Teramo,Abruzzo	Teramano
+Massafra	Massafra,Taranto,Puglia	Apulo-barese
+Mazara del Vallo	Mazara del Vallo,Trapani,Sicilia	Occidentale
+Monteiasi	Monteiasi,Taranto,Puglia	Salentino settenrionale
+Monteiasi 2	Monteiasi,Taranto,Puglia	Salentino settenrionale
+Monteroni	Monteroni di Lecce,Lecce,Puglia	Salentino centrale
+Monterotondo	Monterotondo,Roma,Lazio	Romanesco
+Morolo	Morolo,Frosinone,Lazio	Romanesco
+Mussomeli	Mussomeli,Caltanissetta,Sicilia	Area metafonetica centrale
+Napoli	Napoli,Napoli,Campania	Napoletano
+Nardò	Nardò,Lecce,Puglia	Salentino centrale
+Orvietano	Orvieto,Terni,Umbria	Meridionale-occidentale e viterbese
+Palermo10	Palermo,Palermo,Sicilia	Occidentale
+Palermo3	Palermo,Palermo,Sicilia	Occidentale
+Palermo4	Palermo,Palermo,Sicilia	Occidentale
+Palermo5	Palermo,Palermo,Sicilia	Occidentale
+Pescara1	Pescara,Pescara,Abruzzo	Abruzzese orientale adriatico
+Pianella1	Pianella,Pescara,Abruzzo	Abruzzese orientale adriatico
+Pianella10	Pianella,Pescara,Abruzzo	Abruzzese orientale adriatico
+Pianella2	Pianella,Pescara,Abruzzo	Abruzzese orientale adriatico
+Pianella3	Pianella,Pescara,Abruzzo	Abruzzese orientale adriatico
+Pianella4	Pianella,Pescara,Abruzzo	Abruzzese orientale adriatico
+Pianella5	Pianella,Pescara,Abruzzo	Abruzzese orientale adriatico
+Pianella6	Pianella,Pescara,Abruzzo	Abruzzese orientale adriatico
+Pianella7	Pianella,Pescara,Abruzzo	Abruzzese orientale adriatico
+Pianella9	Pianella,Pescara,Abruzzo	Abruzzese orientale adriatico
+Ragusa	Ragusa,Ragusa,Sicilia	Area metafonetica sud-orientale
+Romanesco	Roma,Roma,Lazio	Romanesco
+Salerno	Salerno,Salerno,Campania	Napoletano
+San Marco in Lamis2	San Marco in Lamis,Foggia,Puglia	Garganico
+San Valentino	San Valentino in Abruzzo Citeriore,Pescara,Abruzzo	Abruzzese orientale adriatico
+San Valentino in Abruzzo Citeriore	San Valentino in Abruzzo Citeriore,Pescara,Abruzzo	Abruzzese orientale adriatico
+Sinagra	Sinagra,Messina,Sicilia	Messinese
+Soleto	Soleto,Lecce,Puglia	Salentino centrale
+Squinzano	Squinzano,Lecce,Puglia	Salentino centrale
+Taranto	Taranto,Taranto,Puglia	Apulo-barese
+Torre del Greco	Torre del Greco,Napoli,Campania	Napoletano
+Torre del Greco1	Torre del Greco,Napoli,Campania	Napoletano
+Villacidro	Villacidro,Medio Campidano,Sardegna	Logudorese-Campidanese Campidanese
+Aquilano	L'Aquila,L'Aquila,Abruzzo	Mediano cicolano-Reatino-aquilano
+Pianella8	Pianella,Pescara,Abruzzo	Abruzzese orientale adriatico
+Sutrio	Sutrio,Udine,Friuli Venezia Giulia	Friulano Carnico
+Lizzano	Lizzano,Taranto,Puglia	Salentino settenrionale
+Roma	Abano Terme,Padova,Veneto	Romanesco
+Padova100	Abano Terme,Padova,Veneto	Abruzzese occidentale
+Udine	Udine,Udine,Friuli Venezia Giulia	Friulano Centro-orientale
+Giazza	Selva di Progno,Verona,Veneto	Veronese
+Luserna	Luserna,Trento,Trentino Alto Adige	Veronese
+Palù del Fersina	Palù del Fersina,Trento,Trentino Alto Adige	Tedesche
+Lughignano	Casale sul Sile,Treviso,Veneto	Meridionale
+Vodo Di Cadore	Belluno,Belluno,Veneto	Ladino Cadorino
